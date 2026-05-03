@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : Mechanical Engineering | Design & Analysis
 name                     : Nutcracker Design Project
 description              : Engineering Design - Nutcracker with Mechanical Advantage 
-baseurl                  : "/sp26-portfolio-nb659cu" # Set this to your repo name 
+baseurl                  : "/sp26-portfolio-nb659CU" # Set this to your repo name 
 
 # Theme and Style
 # theme: jekyll-theme-minimal
