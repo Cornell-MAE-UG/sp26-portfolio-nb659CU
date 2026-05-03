@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <style>
+    .beam { stroke:#333; stroke-width:6; fill:none; }
+    .dashed { stroke:#333; stroke-width:2; fill:none; stroke-dasharray:8 6; }
+    .arrow { fill:#333; }
+    .label { font:14px sans-serif; fill:#222; }
+    .text-small { font:12px sans-serif; fill:#222; }
+  </style>
+  <line x1="120" y1="200" x2="680" y2="200" class="beam" />
+  <line x1="120" y1="200" x2="120" y2="220" stroke="#333" stroke-width="6" />
+  <circle cx="120" cy="200" r="12" fill="#333" />
+  <path d="M 680 200 L 680 160 L 660 170 M 680 160 L 692 180" class="arrow" />
+  <path d="M 120 200 L 120 160 L 140 170 M 120 160 L 108 180" class="arrow" />
+  <path d="M 470 160 Q 520 140 560 120 Q 600 100 640 96" class="dashed" />
+  <rect x="580" y="184" width="50" height="32" rx="4" fill="#eee" stroke="#999" stroke-width="2" />
+  <text x="595" y="205" class="text-small">Grip</text>
+  <path d="M 140 78 L 160 78 L 160 112 L 140 112 Z" fill="#999" />
+  <text x="162" y="95" class="text-small">Nut</text>
+  <text x="530" y="70" class="label">Beam handle (cantilever)</text>
+  <text x="620" y="190" class="label">Grip load</text>
+  <text x="90" y="190" class="label">Pivot</text>
+  <text x="150" y="120" class="label">Nut reaction</text>
+  <text x="520" y="240" class="text-small">Deflection curve (maximum at free end)</text>
+  <text x="60" y="30" class="label">Beam cross section: hollow CFRP tube 24×20 mm, 2 mm wall</text>
+</svg>
