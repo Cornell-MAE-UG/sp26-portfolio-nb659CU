@@ -16,7 +16,7 @@ description              : Engineering Design - Nutcracker with Mechanical Advan
 baseurl                  : "/sp26-portfolio-nb659cu" # Set this to your repo name 
 
 # Theme and Style
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
 color_scheme: light # light/default, dark, or aqua
 
 sass:
