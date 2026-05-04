@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Design
 description: Design a nutcracker with sufficient mechanical advantage to crack macadamia nuts
-image: assets/images/nutcracker.jpeg
+image: /assets/images/nutcracker.jpeg
 imagealt: Nutcracker design diagram
 technologies:
   - Mechanical Engineering

@@ -2,7 +2,7 @@
 layout: project
 title: Nutcracker Bending
 description: Design a nutcracker with handles that bend elastically while maintaining mechanical advantage to crack macadamia nuts
-image: assets/images/nutcracker.jpeg
+image: /assets/images/nutcracker.jpeg
 imagealt: Nutcracker design diagram
 technologies:
   - Mechanical Engineering
